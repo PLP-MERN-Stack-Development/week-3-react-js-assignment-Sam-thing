@@ -1,0 +1,5 @@
+![image of the app on dark-theme](image-1.png)
+![image of the app on light-theme](image-2.png)
+![image the shows text appearing when a button is hovered over](image-3.png)
+![image of the completed tasks that appear when the completed button is pressed](image-4.png)
+![image of the input area.. where the tasks are added](image-5.png)
